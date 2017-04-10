@@ -1,0 +1,5 @@
+#!/bin/sh
+git add .
+git status 
+git commit -m "Second Commit"
+git push --all
